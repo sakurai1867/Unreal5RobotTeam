@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+GameGrandPrize2023/Binaries
+GameGrandPrize2023/Intermediate
+GameGrandPrize2023/Saved
+GameGrandPrize2023/Content/StarterContent/HDRI
