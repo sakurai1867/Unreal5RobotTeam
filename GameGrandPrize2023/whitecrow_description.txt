@@ -1,0 +1,274 @@
+●SHORT DESCRIPTION
+●DESCRIPTION
+Japanese robot animated style characters !
+
+It can transform into robot form and flight form.
+In robot form, there is motion for action game.
+In flight form, there is motion for shooting game.
+
+
+●TECHNICAL DETAILS
+scaled to Epic skeleton:Yes
+Physically-Based Rendering:Yes
+Animated:Yes(Over 50 Animation)
+Number of characters:1
+Vertex Count:32781
+Texture Size:up to 2048
+
+Number of Meshes:19
+Number of Master Materials:19
+Number of Material Instances:19
+Number of Textures:69
+512*512		col_pilot01,hgt_pilot01,mtl_pilot01,nml_pilot01,ruf_pilot01
+1024*1024	col_cockpit01,mtl_cockpit01,nml_cockpit01,ruf_cockpit01
+		col_hand01,hgt_hand01,mtl_hand01,nml_hand01,ruf_hand01
+		col_underbody01,hgt_underbody01,mtl_underbody01,nml_underbody01,ruf_underbody01
+2048*2048	col_head01,hgt_head01,mtl_head01,nml_head01,ruf_head01
+		col_body01,hgt_body01,mtl_body01,nml_body01,ruf_body01
+		col_eye_cam01
+		col_chest01,hgt_chest01,mtl_chest01,nml_chest01,ruf_chest01
+		col_shoulder01,hgt_shoulder01,mtl_shoulder01,nml_shoulder01,ruf_shoulder01
+		col_arm01,hgt_arm01,mtl_arm01,nml_arm01,ruf_arm01
+		col_arm_wep01,hgt_arm_wep01,mtl_arm_wep01,nml_arm_wep01,ruf_arm_wep01
+		col_thighs01,hgt_thighs01,mtl_thighs01,nml_thighs01,ruf_thighs01
+		col_knee01,hgt_knee01,mtl_knee01,nml_knee01,ruf_knee01
+		col_leg01,hgt_leg01,mtl_leg01,nml_leg01,ruf_leg01
+		col_ankle01,hgt_ankle01,mtl_ankle01,nml_ankle01,ruf_ankle01
+Engine Compatibility:UE4.15
+Intended Platform:PS4、PS3、Windows、XBOXone
+Platforms Tested:PC(Windows)
+Collision:Yes type -- custom
+
+
+About Animation data.
+【Normal time】
+Standing
+White_crow01_std01
+
+attack
+White_crow01_atk01
+White_crow01_atk02
+White_crow01_atk03
+
+white_crow01_tnl01
+white_crow01_tnr01
+
+White_crow01_gunl01
+White_crow01_gunr01
+
+damage
+White_crow01_dmg01
+White_crow01_dmg02
+White_crow01_dmg03
+White_crow01_dmg04
+
+death
+White_crow01_ded01
+
+Jump
+White_crow01_jmp01
+White_crow01_jmp02
+White_crow01_jmp03
+
+Move
+White_crow01_rnf01
+White_crow01_rnl01
+White_crow01_rnr01
+White_crow01_rnb01
+
+Movement shoot
+White_crow01_rba01
+White_crow01_rfa01
+White_crow01_rla01
+White_crow01_rra01
+
+
+【Beam Saber Action】
+Transition from normal to beam saber
+White_crow01_kilin01
+
+Transition normally from beam saber
+White_crow01_kilout01
+
+Standing
+White_crow01_kst01
+
+attack
+White_crow01_kil01
+White_crow 01 _ kil 02
+White_crow01_kil03
+
+White_crow01_kgunl01
+White_crow01_kgunr01
+
+damage
+White_crow01_kdmg01
+White_crow01_kdmg02
+White_crow01_kdmg03
+White_crow 01 _kdmg 04
+
+death
+White_crow01_kded01
+
+Jump
+White_crow01_kjmp01
+White_crow01_kjmp02
+White_crow01_kjmp03
+
+Move
+White_crow01_krnf01
+White_crow01_krnb01
+White_crow01_krnl01
+White_crow01_krnr01
+
+Movement shoot
+White_crow01_krfa01
+White_crow01_krba01
+White_crow01_krla01
+White_crow01_krra01
+
+
+【Flying form】
+Transition from normal to flight form
+White_crow01_tfi01
+
+Transition from flight form to normal
+White_crow01_tfo01
+
+Normal
+White_crow01_flf01
+
+damage
+White_crow01_fdmg01
+
+brake
+White_crow01_flbrk01
+
+acceleration
+White_crow01_flbst01
+
+death
+White_crow01_flded01
+
+Turning
+White_crow01_fll01
+White_crow01_flr01
+
+
+ロボット形態と飛行形態に変形する事ができます。
+ロボット形態ではアクションゲーム用のモーションがあります。
+飛行形態ではシューティングゲーム用のモーションがあります。
+
+
+【通常時】
+立ち
+white_crow01_std01
+
+攻撃
+white_crow01_atk01
+white_crow01_atk02
+white_crow01_atk03
+
+white_crow01_tnl01
+white_crow01_tnr01
+
+white_crow01_gunl01
+white_crow01_gunr01
+
+ダメージ
+white_crow01_dmg01
+white_crow01_dmg02
+white_crow01_dmg03
+white_crow01_dmg04
+
+死
+white_crow01_ded01
+
+ジャンプ
+white_crow01_jmp01
+white_crow01_jmp02
+white_crow01_jmp03
+
+移動
+white_crow01_rnf01
+white_crow01_rnl01
+white_crow01_rnr01
+white_crow01_rnb01
+
+移動撃ち
+white_crow01_rba01
+white_crow01_rfa01
+white_crow01_rla01
+white_crow01_rra01
+
+
+【ビームサーベルアクション】
+通常からビームサーベルに移行
+white_crow01_kilin01
+
+ビームサーベルから通常に移行
+white_crow01_kilout01
+
+立ち
+white_crow01_kst01
+
+攻撃
+white_crow01_kil01
+white_crow01_kil02
+white_crow01_kil03
+
+white_crow01_kgunl01
+white_crow01_kgunr01
+
+ダメージ
+white_crow01_kdmg01
+white_crow01_kdmg02
+white_crow01_kdmg03
+white_crow01_kdmg04
+
+死
+white_crow01_kded01
+
+ジャンプ
+white_crow01_kjmp01
+white_crow01_kjmp02
+white_crow01_kjmp03
+
+移動
+white_crow01_krnf01
+white_crow01_krnb01
+white_crow01_krnl01
+white_crow01_krnr01
+
+移動撃ち
+white_crow01_krfa01
+white_crow01_krba01
+white_crow01_krla01
+white_crow01_krra01
+
+
+【飛行形態】
+通常から飛行形態に移行
+white_crow01_tfi01
+
+飛行形態から通常に移行
+white_crow01_tfo01
+
+通常
+white_crow01_flf01
+
+ダメージ
+white_crow01_fdmg01
+
+ブレーキ
+white_crow01_flbrk01
+
+加速
+white_crow01_flbst01
+
+死
+white_crow01_flded01
+
+旋回
+white_crow01_fll01
+white_crow01_flr01
